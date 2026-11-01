@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Local environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# Challenge data (owned by HackerRank, not redistributed)
+dataset/
+
+# Runtime state
+code/cache/request_budget.json
+code/cache/usage_last_run.json
+*.zip

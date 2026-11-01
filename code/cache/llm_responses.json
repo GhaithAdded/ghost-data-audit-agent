@@ -1,0 +1,4413 @@
+{
+ "38a017285deced7ada258f5b3e6eafabda657a990c3452af029973b0ce0cf178": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "DELETE",
+     "id": 0,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 2,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 3,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 4,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 8,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 9,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 32,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 33,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 51,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "OTHER",
+     "id": 52,
+     "reason": "The user only wants to opt out of marketing communications."
+    },
+    {
+     "decision": "DELETE",
+     "id": 53,
+     "reason": "The user requests removal of their profile and cleaning of personal details from past conversations."
+    },
+    {
+     "decision": "OTHER",
+     "id": 54,
+     "reason": "The user asks to stop promotional emails while explicitly requesting to keep the account active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 71,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 72,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 78,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 79,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 90,
+     "reason": "The user requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "The user requests permanent account deletion in Portuguese."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "The user requests permanent account deletion in Spanish."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "The user asks to remove remaining personal details from a deleted-account record."
+    },
+    {
+     "decision": "OTHER",
+     "id": 94,
+     "reason": "The user asks to update their mobile number while keeping the account active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "The user asks to check/verify if their account and analytics data have been deleted after a failed request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "The user requests permanent account deletion in Japanese."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "The user requests permanent account deletion in Korean."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4129,
+   "output_tokens": 3589,
+   "thinking_tokens": 0
+  }
+ },
+ "4a324bfe905787f4f623f1679d64bfb84ba285d73c1510fe73a86de9d7cfb68a": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "DELETE",
+     "id": 0,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 2,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 3,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 4,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 8,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 9,
+     "reason": "Asks to remove records linked to old and current email addresses and integrations."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "Asks to remove records linked to old and current email addresses."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 32,
+     "reason": "Asks to close the account and delete associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 33,
+     "reason": "Asks to close the account permanently."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "Asks to fix or complete a failed deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "Asks to remove remaining data and traces after an incomplete deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 51,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 52,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 53,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 54,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "Asks to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 71,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 72,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 78,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 79,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 90,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 94,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 98,
+     "reason": "Asks to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 99,
+     "reason": "Asks to delete the account and its personal data."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4435,
+   "output_tokens": 3902,
+   "thinking_tokens": 0
+  }
+ },
+ "5392b3b93b568cd61947165ac900d9d6e57d6052f675bce79bfb3a4676cf97ec": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "DELETE",
+     "id": 0,
+     "reason": "Explicit request to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "Explicit request to delete the account and its personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 2,
+     "reason": "Explicit request to delete the account and its personal data."
+    },
+    {
+     "decision": "OTHER",
+     "id": 3,
+     "reason": "Request for data export and explicitly asks to keep the account active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 4,
+     "reason": "Request to complete/retry a failed deletion and remove remaining data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "Request to delete account and remove analytics references."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "Explicit request for permanent deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "Request to remove remaining search result copies after account deletion."
+    },
+    {
+     "decision": "OTHER",
+     "id": 8,
+     "reason": "Request to correct a misspelled name without deleting records."
+    },
+    {
+     "decision": "DELETE",
+     "id": 9,
+     "reason": "Request to check, verify, or audit account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "Explicit request to begin the deletion process for the account."
+    },
+    {
+     "decision": "OTHER",
+     "id": 32,
+     "reason": "Request to change email address and keep service active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 33,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 51,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 52,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 53,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 54,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "Explicit request to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "Request to delete account and support attachment documents."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "Request to delete account, archives, and remaining search results."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 71,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 72,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 78,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 79,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 90,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "Explicit request to erase the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 94,
+     "reason": "Explicit request for permanent deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "Explicit request for permanent deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "Explicit request for permanent deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "Explicit request for permanent deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 98,
+     "reason": "Explicit request for permanent deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 99,
+     "reason": "Explicit request for permanent deletion of the account."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4140,
+   "output_tokens": 3823,
+   "thinking_tokens": 0
+  }
+ },
+ "58187971efb63ab4257cad60f255c1a23c93e114a4534b576036a30103b17f8a": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "screenshots": [
+    {
+     "image_index": 0,
+     "page_identifiers": [
+      "Haruka Sato",
+      "user_11",
+      "account_5762",
+      "haruka.s1838@zoho.com",
+      "+81 90 7610 2507"
+     ],
+     "records": [
+      {
+       "identifiers": [
+        "Haruka Sato",
+        "user_11",
+        "account_5762",
+        "haruka.s1838@zoho.com",
+        "+81 90 7610 2507",
+        "CS-8538",
+        "support_9538"
+       ],
+       "resource_id": "account_5762",
+       "state": "PRESENT"
+      },
+      {
+       "identifiers": [
+        "CS-8538",
+        "support_9538",
+        "Haruka Sato",
+        "user_11",
+        "account_5762",
+        "haruka.s1838@zoho.com",
+        "+81 90 7610 2507"
+       ],
+       "resource_id": "support_9538",
+       "state": "PRESENT"
+      }
+     ]
+    },
+    {
+     "image_index": 1,
+     "page_identifiers": [],
+     "records": [
+      {
+       "identifiers": [
+        "search_428",
+        "Gabriel Silva",
+        "g.silva76@gmail.com",
+        "user_13"
+       ],
+       "resource_id": "search_428",
+       "state": "PRESENT"
+      },
+      {
+       "identifiers": [
+        "search_1874",
+        "g.silva76.jr@gmail.com"
+       ],
+       "resource_id": "search_1874",
+       "state": "PRESENT"
+      }
+     ]
+    },
+    {
+     "image_index": 2,
+     "page_identifiers": [],
+     "records": [
+      {
+       "identifiers": [
+        "data_flow_1121",
+        "jain.aditi@gmail.com"
+       ],
+       "resource_id": "data_flow_1121",
+       "state": "ACTIVE"
+      },
+      {
+       "identifiers": [
+        "data_flow_9846",
+        "lucia-torres@gmail.com"
+       ],
+       "resource_id": "data_flow_9846",
+       "state": "ACTIVE"
+      }
+     ]
+    },
+    {
+     "image_index": 3,
+     "page_identifiers": [
+      "Omar Darwish",
+      "user_20",
+      "analytics_7438",
+      "darwish.omar@icloud.com"
+     ],
+     "records": [
+      {
+       "identifiers": [
+        "Omar Darwish",
+        "user_20",
+        "analytics_7438",
+        "darwish.omar@icloud.com"
+       ],
+       "resource_id": "analytics_7438",
+       "state": "PRESENT"
+      }
+     ]
+    }
+   ]
+  },
+  "task": "screenshot",
+  "usage": {
+   "input_tokens": 4746,
+   "output_tokens": 832,
+   "thinking_tokens": 0
+  }
+ },
+ "647e9df7a857ec0c3591095f976313cdc0a2fd91b0764893c999e1e9f86bf699": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "screenshots": [
+    {
+     "image_index": 0,
+     "page_identifiers": [],
+     "records": [
+      {
+       "identifiers": [
+        "marcus.lee@northstar.shop"
+       ],
+       "resource_id": "export_1261",
+       "state": "ACTIVE"
+      },
+      {
+       "identifiers": [
+        "ingrid.dahl@outlook.com"
+       ],
+       "resource_id": "export_1260",
+       "state": "ACTIVE"
+      },
+      {
+       "identifiers": [
+        "sara.kim@northstar.shop"
+       ],
+       "resource_id": "export_1259",
+       "state": "ACTIVE"
+      },
+      {
+       "identifiers": [
+        "daniel.park@northstar.shop"
+       ],
+       "resource_id": "export_1258",
+       "state": "ACTIVE"
+      }
+     ]
+    },
+    {
+     "image_index": 1,
+     "page_identifiers": [
+      "CS-5034",
+      "Kofi Agyeman",
+      "kagyeman8947@fastmail.com"
+     ],
+     "records": [
+      {
+       "identifiers": [
+        "CS-5034",
+        "Kofi Agyeman",
+        "kagyeman8947@fastmail.com",
+        "Maya Chen",
+        "ORD-20265034"
+       ],
+       "resource_id": "support_1034",
+       "state": "PRESENT"
+      }
+     ]
+    },
+    {
+     "image_index": 2,
+     "page_identifiers": [],
+     "records": [
+      {
+       "identifiers": [
+        "bluepeakco@outlook.com"
+       ],
+       "resource_id": "backup_9291",
+       "state": "ACTIVE"
+      },
+      {
+       "identifiers": [
+        "miller.logistics@company.com"
+       ],
+       "resource_id": "backup_9288",
+       "state": "ACTIVE"
+      },
+      {
+       "identifiers": [
+        "areed1433@gmail.com"
+       ],
+       "resource_id": "backup_9287",
+       "state": "ACTIVE"
+      },
+      {
+       "identifiers": [
+        "summit-retail@company.com"
+       ],
+       "resource_id": "backup_9286",
+       "state": "ACTIVE"
+      }
+     ]
+    },
+    {
+     "image_index": 3,
+     "page_identifiers": [
+      "user_03"
+     ],
+     "records": [
+      {
+       "identifiers": [
+        "user_03"
+       ],
+       "resource_id": "audit_record_003",
+       "state": "PRESENT"
+      },
+      {
+       "identifiers": [
+        "user_03"
+       ],
+       "resource_id": "audit_record_002",
+       "state": "PRESENT"
+      },
+      {
+       "identifiers": [
+        "user_03"
+       ],
+       "resource_id": "audit_record_001",
+       "state": "PRESENT"
+      },
+      {
+       "identifiers": [
+        "user_03"
+       ],
+       "resource_id": "audit_record_006",
+       "state": "PRESENT"
+      },
+      {
+       "identifiers": [
+        "user_03"
+       ],
+       "resource_id": "audit_record_005",
+       "state": "PRESENT"
+      },
+      {
+       "identifiers": [
+        "user_03"
+       ],
+       "resource_id": "audit_record_004",
+       "state": "PRESENT"
+      }
+     ]
+    }
+   ]
+  },
+  "task": "screenshot",
+  "usage": {
+   "input_tokens": 4772,
+   "output_tokens": 972,
+   "thinking_tokens": 0
+  }
+ },
+ "6fb768f7a37a1623369a07bb9f2fd0f41a03610feb1504119018b35da097e724": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "DELETE",
+     "id": 0,
+     "reason": "Request asks to delete account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "Request asks to delete account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 2,
+     "reason": "Request asks to delete account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 3,
+     "reason": "Request asks to delete account and personal data."
+    },
+    {
+     "decision": "OTHER",
+     "id": 4,
+     "reason": "Request asks to download data while keeping the account active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "Request asks to fix/complete a failed deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "Request asks to delete account and remove analytics tracking while allowing anonymous stats."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "Request asks for permanent deletion of account and associated records."
+    },
+    {
+     "decision": "DELETE",
+     "id": 8,
+     "reason": "Request asks to remove remaining search results from a deleted profile."
+    },
+    {
+     "decision": "OTHER",
+     "id": 9,
+     "reason": "Request asks to correct personal details without deleting records."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "Request asks to audit/verify an account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "Request asks to begin the account deletion process across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "DELETE",
+     "id": 32,
+     "reason": "Request asks to begin the account deletion process."
+    },
+    {
+     "decision": "OTHER",
+     "id": 33,
+     "reason": "Request asks to update email address and keep the service active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 51,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 52,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 53,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 54,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "Request asks to close account and delete personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "Request asks to delete account and support attachments."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "Request asks to delete account, downloadable archive, and search results."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 71,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 72,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 78,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 79,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 90,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 94,
+     "reason": "Request asks to erase account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "Request asks to permanently delete account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "Request asks to permanently delete account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "Request asks to permanently delete account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 98,
+     "reason": "Request asks to permanently delete account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 99,
+     "reason": "Request asks to permanently delete account."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4150,
+   "output_tokens": 3735,
+   "thinking_tokens": 0
+  }
+ },
+ "7f6135870f370475f938fe53bec3d2f822ed726224f0182722284ce05b0af9e6": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "DELETE",
+     "id": 0,
+     "reason": "Requests permanent account and personal data deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "Requests permanent account and personal data deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 2,
+     "reason": "Requests permanent account and personal data deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 3,
+     "reason": "Requests permanent account deletion including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 4,
+     "reason": "Requests permanent account deletion including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "Requests permanent account deletion including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "Requests permanent account deletion including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "Requests permanent account deletion and data deletion/de-identification."
+    },
+    {
+     "decision": "DELETE",
+     "id": 8,
+     "reason": "Requests permanent account deletion and data deletion/de-identification."
+    },
+    {
+     "decision": "DELETE",
+     "id": 9,
+     "reason": "Requests permanent account deletion and data deletion/de-identification."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "Requests removal of records under old and current email addresses and disabling analytics/search integration."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "Requests removal of records linked to old and current email addresses."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "Requests closing account and deleting personal data across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "Requests closing account and deleting personal data across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "Requests closing account and handling copies under deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "Requests closing account and deleting personal data including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "Requests closing account and deleting personal data including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "Requests closing account and deleting associated personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 32,
+     "reason": "Requests closing account and deleting personal data including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 33,
+     "reason": "Requests closing account and deleting personal data including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "Requests permanent account closure while accepting unrestorable backups."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "Requests finishing a failed or incomplete account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "Requests removal of remaining copies/traces in search, support, and analytics."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "Requests erasure of account associated with the email address across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "Requests erasure of account associated with the email address across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "Requests erasure of account associated with the email address across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "Requests erasure of account associated with the email address including copies."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "Requests erasure of account associated with the email address including copies."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "Requests erasure of account associated with the email address including copies."
+    },
+    {
+     "decision": "DELETE",
+     "id": 51,
+     "reason": "Requests erasure of account associated with the email address including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 52,
+     "reason": "Requests erasure of account associated with the email address including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 53,
+     "reason": "Requests erasure of account associated with the email address including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 54,
+     "reason": "Requests erasure of account associated with the email address including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "Requests erasure of account associated with the email address including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "Requests erasure of account associated with the email address including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "Requests erasure of account associated with the email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "Requests deletion of account and personal data across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "Requests deletion of account and personal data across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "Requests deletion of account and personal data across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "Requests deletion of account and personal data across systems."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 71,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 72,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 78,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 79,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "Requests deletion of account and personal data including copies."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "Requests deletion of account and personal data including copies."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "Requests deletion of account and personal data including copies."
+    },
+    {
+     "decision": "DELETE",
+     "id": 90,
+     "reason": "Requests deletion of account and personal data including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "Requests deletion of account and personal data including current/earlier identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 94,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "Requests deletion of account and personal data."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "Requests deletion of account and personal data including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "Requests deletion of account and personal data including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 98,
+     "reason": "Requests deletion of account and personal data including connected identifiers."
+    },
+    {
+     "decision": "DELETE",
+     "id": 99,
+     "reason": "Requests deletion of account and personal data including connected identifiers."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4426,
+   "output_tokens": 3906,
+   "thinking_tokens": 0
+  }
+ },
+ "9ba847372f7b5a7217e9aa7bfadf029c4403e84b182ce805a2d1b6049eeff92b": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "screenshots": [
+    {
+     "image_index": 0,
+     "page_identifiers": [
+      "user_17"
+     ],
+     "records": [
+      {
+       "identifiers": [
+        "user_17",
+        "ORD-20263245",
+        "CS-3245",
+        "CS-3378"
+       ],
+       "resource_id": "user_17",
+       "state": "PRESENT"
+      }
+     ]
+    },
+    {
+     "image_index": 1,
+     "page_identifiers": [],
+     "records": []
+    },
+    {
+     "image_index": 2,
+     "page_identifiers": [
+      "marketing_001",
+      "Soo-jin Park",
+      "sj.park@naver.com",
+      "+82 10-5837-9451"
+     ],
+     "records": [
+      {
+       "identifiers": [
+        "marketing_001",
+        "Soo-jin Park",
+        "sj.park@naver.com",
+        "+82 10-5837-9451"
+       ],
+       "resource_id": "marketing_001",
+       "state": "PRESENT"
+      }
+     ]
+    }
+   ]
+  },
+  "task": "screenshot",
+  "usage": {
+   "input_tokens": 3692,
+   "output_tokens": 333,
+   "thinking_tokens": 0
+  }
+ },
+ "a62594375705ddabd1a91afadab9d24ed73e22f3152ab33d7dd6cef2c1e3143d": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "OTHER",
+     "id": 0,
+     "reason": "Request asks for access/information held, explicitly stating it is not a request for erasure."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "Request asks to verify deletion of their account."
+    },
+    {
+     "decision": "OTHER",
+     "id": 2,
+     "reason": "Request asks for a copy of data and explicitly asks not to delete anything."
+    },
+    {
+     "decision": "DELETE",
+     "id": 3,
+     "reason": "Request asks to close the account and remove profile/personal details."
+    },
+    {
+     "decision": "DELETE",
+     "id": 4,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 8,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 9,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 32,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 33,
+     "reason": "Request explicitly asks to remove account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 51,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 52,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 53,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 54,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 71,
+     "reason": "Request explicitly asks for deletion of the account."
+    },
+    {
+     "decision": "OTHER",
+     "id": 72,
+     "reason": "Request asks for login reset help and explicitly requests not to close the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "Request asks to remove remaining personal data tied to old email address following account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "Request asks to delete remaining export file after account closure."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "Request asks to verify that account/profile data was really deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "Request asks to remove remaining copy of profile after deletion confirmation."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "Request asks to completely close account and stop data sharing to integrations."
+    },
+    {
+     "decision": "DELETE",
+     "id": 78,
+     "reason": "Request asks to check and confirm that profile/data has been deleted."
+    },
+    {
+     "decision": "OTHER",
+     "id": 79,
+     "reason": "Request asks for copies of invoices and asks to leave profile in place."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "Request asks to remove name and contact details, allowing an internal reference."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 90,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 94,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 98,
+     "reason": "Request asks for account to be permanently deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 99,
+     "reason": "Request asks for account to be permanently deleted."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4309,
+   "output_tokens": 3892,
+   "thinking_tokens": 0
+  }
+ },
+ "d28bbfea1dcbd7f6f1c69ae8c6cd77eaa5eb6680d7bcf783cabe3dc115ef5983": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "OTHER",
+     "id": 0,
+     "reason": "This is an information access request, not a request for deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "Asks to verify that the account was deleted."
+    },
+    {
+     "decision": "OTHER",
+     "id": 2,
+     "reason": "Asks for a copy of data and explicitly requests not to delete anything."
+    },
+    {
+     "decision": "DELETE",
+     "id": 3,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 4,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 8,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 9,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 32,
+     "reason": "Asks to remove the account and personal information."
+    },
+    {
+     "decision": "DELETE",
+     "id": 33,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 51,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 52,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 53,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 54,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "Asks to delete the account registered to their email address."
+    },
+    {
+     "decision": "OTHER",
+     "id": 71,
+     "reason": "Asks for login help and explicitly requests not to close the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 72,
+     "reason": "Asks to ensure remaining data under an old email address was removed after account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "Asks to delete remaining data export files following account closure."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "Asks to verify that the profile was deleted."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "Asks to remove remaining copies of the profile after previous deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "Asks to close the account completely and remove data integrations."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "Asks to verify that the profile was deleted."
+    },
+    {
+     "decision": "OTHER",
+     "id": 78,
+     "reason": "Asks for copy of invoices and requests to leave profile in place."
+    },
+    {
+     "decision": "DELETE",
+     "id": 79,
+     "reason": "Asks to remove name and contact details, which is a deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 90,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 94,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 98,
+     "reason": "Asks to permanently delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 99,
+     "reason": "Asks to permanently delete the account."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4313,
+   "output_tokens": 3973,
+   "thinking_tokens": 0
+  }
+ },
+ "f185faaa4987b1fe678c5d28c4ee150b00520115aaefade4e23567bec1c0140a": {
+  "model": "gemini-3.5-flash",
+  "response": {
+   "results": [
+    {
+     "decision": "DELETE",
+     "id": 0,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 1,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 2,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 3,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 4,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 5,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 6,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 7,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 8,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 9,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 10,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 11,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 12,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 13,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 14,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 15,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 16,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 17,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 18,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 19,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 20,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 21,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 22,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 23,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 24,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 25,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 26,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 27,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 28,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 29,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 30,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 31,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 32,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 33,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 34,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 35,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 36,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 37,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 38,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 39,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 40,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 41,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 42,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 43,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 44,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 45,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 46,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 47,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 48,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 49,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "DELETE",
+     "id": 50,
+     "reason": "Explicitly requests processing a permanent account-deletion request."
+    },
+    {
+     "decision": "OTHER",
+     "id": 51,
+     "reason": "Requests marketing opt-out only, keeping the account active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 52,
+     "reason": "Requests removal of profile and personal data from past support records."
+    },
+    {
+     "decision": "OTHER",
+     "id": 53,
+     "reason": "Asks to stop promotional emails while keeping the account active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 54,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 55,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 56,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 57,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 58,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 59,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 60,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 61,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 62,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 63,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 64,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 65,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 66,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 67,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 68,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 69,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 70,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 71,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 72,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 73,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 74,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 75,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 76,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 77,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 78,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 79,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 80,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 81,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 82,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 83,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 84,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 85,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 86,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 87,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 88,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "DELETE",
+     "id": 89,
+     "reason": "Explicitly requests permanent account deletion."
+    },
+    {
+     "decision": "OTHER",
+     "id": 90,
+     "reason": "Asks for a data download copy and explicitly requests not to delete the account."
+    },
+    {
+     "decision": "DELETE",
+     "id": 91,
+     "reason": "Requests permanent account deletion in Portuguese."
+    },
+    {
+     "decision": "DELETE",
+     "id": 92,
+     "reason": "Requests permanent account deletion in Spanish."
+    },
+    {
+     "decision": "DELETE",
+     "id": 93,
+     "reason": "Requests removal of remaining personal details from deleted-account records."
+    },
+    {
+     "decision": "OTHER",
+     "id": 94,
+     "reason": "Asks to update a mobile phone number and keep the account active."
+    },
+    {
+     "decision": "DELETE",
+     "id": 95,
+     "reason": "Asks to check/verify if the account and identifiable analytics data were deleted after a failed deletion notice."
+    },
+    {
+     "decision": "DELETE",
+     "id": 96,
+     "reason": "Requests permanent account deletion in Japanese."
+    },
+    {
+     "decision": "DELETE",
+     "id": 97,
+     "reason": "Requests permanent account deletion in Korean."
+    }
+   ]
+  },
+  "task": "intent",
+  "usage": {
+   "input_tokens": 4120,
+   "output_tokens": 3688,
+   "thinking_tokens": 0
+  }
+ }
+}
